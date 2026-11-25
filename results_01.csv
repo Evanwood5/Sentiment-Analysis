@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1
+Word list,0.729,0.721,0.649,0.656
+Word list + negation,0.76,0.774,0.681,0.693
