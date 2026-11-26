@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1
+LR + TF-IDF,0.803,0.798,0.756,0.769
+LR + TF-IDF (balanced),0.811,0.793,0.811,0.799
+LR + Word2Vec,0.736,0.714,0.677,0.685
+LR + GloVe,0.78,0.764,0.739,0.747
